@@ -1,0 +1,15 @@
+﻿  IOCPThread.cpp
+  MainGameScene.cpp
+  WinMain.cpp
+  코드를 생성하고 있습니다...
+  IntroTitleScene.cpp
+  Object.cpp
+D:\GA2020\Network Programming Assignment\프로젝트\6조\Project\Client\BasicWinProject\Object.cpp(106,20): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+D:\GA2020\Network Programming Assignment\프로젝트\6조\Project\Client\BasicWinProject\Object.cpp(113,12): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Scene.cpp
+  SceneManager.cpp
+  코드를 생성하고 있습니다...
+  BasicWinProject.vcxproj -> D:\GA2020\Network Programming Assignment\프로젝트\6조\Project\Client\Debug\BasicWinProject.exe
+          1개 파일이 복사되었습니다.
+  하위 디렉터리 또는 파일 ../bin이(가) 이미 있습니다.
+          1개 파일이 복사되었습니다.

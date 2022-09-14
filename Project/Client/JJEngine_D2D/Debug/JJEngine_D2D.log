@@ -1,0 +1,54 @@
+﻿  pch.cpp
+  JJEngine_D2D_Main.cpp
+D:\GA2020\Network Programming Assignment\프로젝트\6조\Project\Client\JJEngine_D2D\JMotion.h(9,18): warning C4099: 'ID2D1Bitmap': 처음에는 'struct'을(를) 사용하여 형식 이름을 표시했는데 이제는 'class'을(를) 사용하여 표시합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\d2d1.h(1105): message : 'ID2D1Bitmap' 선언을 참조하십시오.
+D:\GA2020\Network Programming Assignment\프로젝트\6조\Project\Client\JJEngine_D2D\JJEngine_D2D_Main.cpp(172,4): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\GA2020\Network Programming Assignment\프로젝트\6조\Project\Client\JJEngine_D2D\JJEngine_D2D_Main.cpp(224,4): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\GA2020\Network Programming Assignment\프로젝트\6조\Project\Client\JJEngine_D2D\JJEngine_D2D_Main.cpp(477,14): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\GA2020\Network Programming Assignment\프로젝트\6조\Project\Client\JJEngine_D2D\JJEngine_D2D_Main.cpp(508,14): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\GA2020\Network Programming Assignment\프로젝트\6조\Project\Client\JJEngine_D2D\JJEngine_D2D_Main.cpp(535,22): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\GA2020\Network Programming Assignment\프로젝트\6조\Project\Client\JJEngine_D2D\JJEngine_D2D_Main.cpp(565,22): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\GA2020\Network Programming Assignment\프로젝트\6조\Project\Client\JJEngine_D2D\JJEngine_D2D_Main.cpp(682,14): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\GA2020\Network Programming Assignment\프로젝트\6조\Project\Client\JJEngine_D2D\JJEngine_D2D_Main.cpp(713,22): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  JMotion.cpp
+  JPhysics.cpp
+D:\GA2020\Network Programming Assignment\프로젝트\6조\Project\Client\JJEngine_D2D\JPhysics.cpp(11,15): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  JScript.cpp
+D:\GA2020\Network Programming Assignment\프로젝트\6조\Project\Client\JJEngine_D2D\JScript.cpp(15,16): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\GA2020\Network Programming Assignment\프로젝트\6조\Project\Client\JJEngine_D2D\JScript.cpp(33,12): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\GA2020\Network Programming Assignment\프로젝트\6조\Project\Client\JJEngine_D2D\JScript.cpp(39,12): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\GA2020\Network Programming Assignment\프로젝트\6조\Project\Client\JJEngine_D2D\JScript.cpp(47,12): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\GA2020\Network Programming Assignment\프로젝트\6조\Project\Client\JJEngine_D2D\JScript.cpp(71,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\GA2020\Network Programming Assignment\프로젝트\6조\Project\Client\JJEngine_D2D\JScript.cpp(75,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\GA2020\Network Programming Assignment\프로젝트\6조\Project\Client\JJEngine_D2D\JScript.cpp(94,40): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  JSprite.cpp
+  JTimer.cpp
+  JTransform.cpp
+D:\GA2020\Network Programming Assignment\프로젝트\6조\Project\Client\JJEngine_D2D\JTransform.cpp(81,31): warning C4244: '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\GA2020\Network Programming Assignment\프로젝트\6조\Project\Client\JJEngine_D2D\JTransform.cpp(83,17): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\GA2020\Network Programming Assignment\프로젝트\6조\Project\Client\JJEngine_D2D\JTransform.cpp(205,18): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\GA2020\Network Programming Assignment\프로젝트\6조\Project\Client\JJEngine_D2D\JTransform.cpp(276,12): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\GA2020\Network Programming Assignment\프로젝트\6조\Project\Client\JJEngine_D2D\JTransform.cpp(280,9): warning C4838: 'double'에서 'float'(으)로의 변환에는 축소 변환이 필요합니다.
+D:\GA2020\Network Programming Assignment\프로젝트\6조\Project\Client\JJEngine_D2D\JTransform.cpp(280,9): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\GA2020\Network Programming Assignment\프로젝트\6조\Project\Client\JJEngine_D2D\JTransform.cpp(280,20): warning C4838: 'double'에서 'float'(으)로의 변환에는 축소 변환이 필요합니다.
+D:\GA2020\Network Programming Assignment\프로젝트\6조\Project\Client\JJEngine_D2D\JTransform.cpp(280,20): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\GA2020\Network Programming Assignment\프로젝트\6조\Project\Client\JJEngine_D2D\JTransform.cpp(281,6): warning C4838: 'double'에서 'float'(으)로의 변환에는 축소 변환이 필요합니다.
+D:\GA2020\Network Programming Assignment\프로젝트\6조\Project\Client\JJEngine_D2D\JTransform.cpp(281,6): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\GA2020\Network Programming Assignment\프로젝트\6조\Project\Client\JJEngine_D2D\JTransform.cpp(281,20): warning C4838: 'double'에서 'float'(으)로의 변환에는 축소 변환이 필요합니다.
+D:\GA2020\Network Programming Assignment\프로젝트\6조\Project\Client\JJEngine_D2D\JTransform.cpp(281,20): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+D:\GA2020\Network Programming Assignment\프로젝트\6조\Project\Client\JJEngine_D2D\JScript.cpp(51): warning C4715: 'JScript::GetSpeaker': 모든 제어 경로에서 값을 반환하지는 않습니다.
+D:\GA2020\Network Programming Assignment\프로젝트\6조\Project\Client\JJEngine_D2D\JScript.cpp(43): warning C4715: 'JScript::GetText': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  JJEngine_D2D.vcxproj -> D:\GA2020\Network Programming Assignment\프로젝트\6조\Project\Client\Debug\JJEngine_D2Dd.lib
+  하위 디렉터리 또는 파일 ..\\lib이(가) 이미 있습니다.
+          1개 파일이 복사되었습니다.
+  D:\GA2020\Network Programming Assignment\프로젝트\6조\Project\Client\JJEngine_D2D\JJEngine_D2D.h
+  D:\GA2020\Network Programming Assignment\프로젝트\6조\Project\Client\JJEngine_D2D\JJEngine_Macro.h
+  D:\GA2020\Network Programming Assignment\프로젝트\6조\Project\Client\JJEngine_D2D\JMotion.h
+  D:\GA2020\Network Programming Assignment\프로젝트\6조\Project\Client\JJEngine_D2D\JPhysics.h
+  D:\GA2020\Network Programming Assignment\프로젝트\6조\Project\Client\JJEngine_D2D\JScript.h
+  D:\GA2020\Network Programming Assignment\프로젝트\6조\Project\Client\JJEngine_D2D\JSprite.h
+  D:\GA2020\Network Programming Assignment\프로젝트\6조\Project\Client\JJEngine_D2D\JTimer.h
+  D:\GA2020\Network Programming Assignment\프로젝트\6조\Project\Client\JJEngine_D2D\JTransform.h
+  D:\GA2020\Network Programming Assignment\프로젝트\6조\Project\Client\JJEngine_D2D\pch.h
+          9개 파일이 복사되었습니다.
